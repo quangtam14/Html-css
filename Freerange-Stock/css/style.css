@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.header{
+    background-color:#222;
+    height:64px;
+}
+.logo {
+	float: left;
+}
+.logo a {
+	background-color: #c62a19;
+	display: block;
+	padding: 10px 14px;
+}
+.logo-text {
+	margin: 27px 0 0 14px;
+}
+.header-1 ul li.icon1 a{
+    
+}
+.header-3 ul li.icon-Register a{
+	
+}
+.header-3 ul li.icon-login a{
+	
+}
+.header-3, .header-2 {
+	float: right;
+}
+.header-3{
+	text-decoration: none;
+		display: flex
+}
+.header-3 a {
+	color: #fff;
+}
+ul {
+list-style: none;
+}
+
+.search-wrap {
+	background: url(../images/Hero1.jpg) no-repeat scroll 0 0;
+	width: 100%;
+	height: 480px;
+	background-size: cover;
+}
