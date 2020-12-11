@@ -1,8 +1,11 @@
 *{
-	background-color: lightblue;
+	background-color: #ff9933;
 	line-height: 20px;
 }
-.fname{
-  border: 2px solid red;
+.type{
+  border: 4px 4px 4px 4px;
   border-radius: 8px;
+}
+.p{
+	text-align: center;	
 }
