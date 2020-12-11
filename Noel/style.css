@@ -1,11 +1,10 @@
 *{
-	background-color: #ff9933;
+	background: #ffcc66;
 	line-height: 20px;
 }
-.type{
-  border: 4px 4px 4px 4px;
-  border-radius: 8px;
+.greeting{
+	background-color: :#009933;
 }
-.p{
-	text-align: center;	
+.form{
+ background-color:#ff9933;
 }
