@@ -64,16 +64,24 @@
             <div class="search-wrap">
                 <h2>Great photos. Totally free.</h2>
                 <form action="" name="search-stock" method="get">
-                    <div class="form">
-                        <div class="select">
-                            <select name="scope">
-                                <option value="">Search All</option>
-                                <option value="">Photo</option>
-                                <option value="">Illustrator</option>
-                            </select>
-                        </div>
+                    <div class="select">
+                        <select name="scope">
+                            <option value="">Search All</option>
+                            <option value="">Photo</option>
+                            <option value="">Illustrator</option>
+                            <form class="search">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="Enter Keywords">
+                                    <button type="submit" ><i class="lens"></i>
+                                    </button>
+                                </div>
+                            </form>
+                        </select>
                     </div>
                 </form>
+                <div style="text-align: center; font-size: 20px">
+                <p>Photos and illustrations lcensed for commercial use. No attribution required! Contributors welcome</p>
+                </div>
             </div>
         </div><!-- end .page -->
     </body>
