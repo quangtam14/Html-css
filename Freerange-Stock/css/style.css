@@ -47,6 +47,7 @@ list-style: none;
 	height: 480px;
 	background-size: cover;
 	text-align: center;
+	margin-top: 0px: 
 }
 .select{
 
@@ -57,4 +58,7 @@ list-style: none;
 	float: right;
 	margin-left:50px;
 	margin-right:100px;
+}
+.article{
+
 }
